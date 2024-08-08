@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarbhakta" alt="rajkumarbhakta" /></a> </p>
 
 
-- 💬 Ask me about **android , java ,C++**
+- 💬 Ask me about **android , java ,Kotlin**
 
 - 📫 How to reach me **email.rajkumarbhakta@gmail.com**
 
